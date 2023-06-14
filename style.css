@@ -268,9 +268,7 @@ header{
     transition: .3s;
 }
 
-#service{
-    background-color: #f5f6f7;
-}
+
 
 #project{
     background-color: #f5f6f7;
@@ -278,6 +276,10 @@ header{
 
 
 /* SECTION TAB SERVICE */
+
+#service{
+    background-color: #f5f6f7;
+}
 
 .btn {
 border: none;
